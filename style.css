@@ -1,0 +1,71 @@
+.student{
+    background-color: rgb(178, 213, 241);
+}
+.details{
+    margin-left: 350px;
+    padding-left: 50px;
+}
+button {
+    background-color: rgb(244, 14, 14);
+    color: white;
+    font-weight: bold;
+    border: none;
+    border-radius: 15px;
+    font-size: 12px;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: center;
+    width: 200px;
+    cursor: pointer;
+  }
+
+  .image{
+    width: 100px;
+    height: 100px;
+    border-radius: 100px;
+    object-fit: cover;
+    margin-right: 12px;
+    align-items: center;
+  }
+  .front{
+    margin-left: 500px;
+  }
+  
+body{
+    background-image: url('night.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.tab{
+    margin-top: 200px;
+    border: 0;
+    color: white;
+}
+table,tr,th{
+    border: 2px solid rgb(21, 22, 21);
+  border-collapse: collapse;
+}
+.timetable
+{
+    width: 70%;
+    height: 400px;
+    color:white;
+    margin-left: 200px;
+    margin-top: 60px;
+    
+}
+.row{
+    color: rgb(243, 11, 11);
+}
+
+.col{
+    color: rgb(243, 10, 10);
+}
+
+h3{
+    margin-left: 200px;
+    color: antiquewhite;
+}
